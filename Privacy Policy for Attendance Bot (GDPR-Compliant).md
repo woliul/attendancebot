@@ -1,6 +1,6 @@
 ### Privacy Policy for Attendance Bot (GDPR-Compliant)
 
-**Effective Date:** [Date]
+**Effective Date:** December, 2024
 
 #### 1. Information We Collect
 Attendance Bot collects the minimum necessary data to function effectively. This data may include:
